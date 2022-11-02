@@ -1,0 +1,36 @@
+.common-input button {
+  margin-left: 10px;
+  padding: 3px 10px;
+}
+
+.comment-label {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.comment-label-field {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 0.3px solid rosybrown;
+}
+
+.commentInput {
+  margin-top: 10px;
+}
+
+.comments-list {
+  display: block;
+}
+
+.comments-viewer {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.common-input-field input {
+  display: inline-block;
+  width: 300px;
+  margin-right: 10px;
+}
